@@ -1,8 +1,12 @@
 body {
-    background-color: #FADFA1;
+    background-color: #FBE9D0;
     font-family: sans-serif,Arial, Helvetica;
     }
     h1 {
-    color: #16325B;
+    color: #E64833;
     text-align: center;
+    }
+    h2{
+        color: #244855;
+        text-align: left;
     }
