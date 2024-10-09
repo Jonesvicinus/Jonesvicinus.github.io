@@ -10,12 +10,21 @@ body {
         color: #244855;
         text-align: left;
     }
+
+    p{
+        color: white;
+        width: 80%;
+        text-align: center;
+        margin: 45px;
+        
+    }
     .projects { 
         display:flex; 
         flex-wrap:wrap; 
     } 
     .project {
         width: 30%;
+        height: ;
         margin: 10px;
         padding: 20px 10px;
         background: #244855;
@@ -24,15 +33,16 @@ body {
     .project img
     {
         width: 450px;
-        height: 300px;
+        height: auto;
         margin: 10px;
-        border: 2px solid rgb(126, 14, 201); /* choose a color */
+        border: 2px solid white;
         display: block;
         margin: auto;
     }
     .project h3{
         text-align: center;
         color: white;
+        font-size: xx-large;
         
     }
     .project h3:hover{
